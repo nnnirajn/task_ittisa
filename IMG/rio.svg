@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="56" height="56">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fcec64 } 
+		.txt1 { font-size: 28px;fill: #648cff;font-family: "Ubuntu";font-weight: 700 } 
+	</style>
+	<path id="circle" class="shp0" d="M28 0.55C43.28 0.55 55.67 12.94 55.67 28.23C55.67 43.51 43.28 55.9 28 55.9C12.72 55.9 0.33 43.51 0.33 28.23C0.33 12.94 12.72 0.55 28 0.55Z" />
+	<text id="Rio" style="transform: matrix(0.652,0,0,0.652,11.659,34.737)" >
+		<tspan x="0" y="0" class="txt1">Rio</tspan>
+	</text>
+</svg>

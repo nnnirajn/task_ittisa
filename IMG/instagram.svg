@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" width="26" height="26">
+	<defs>
+		<image width="26" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAAXNSR0IB2cksfwAAAaRQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////CIGU2QAAAIx0Uk5TAAk5hLXFxreGOiKg/6EhHdWvl5WWqtEEovWNJA9+8aYGN/37kwdNM3z4QNwDY+/gC82ynp8BiWLElOj86pqDEn3SDrTuwrkFj5gr5qQ1dfrzIxntf8u+yb14IBbrgjCS6ZkakQITvLvDGHud7Ii4rT2nh0Glx4zWFAo+gHBTc2rBeXrAMSk0DeLTqFb6WMotAAABdklEQVR4nGWRZVsCURBGxwZ9AV0VDBRdC+xgFVgTMbCwExXB7u7Cjj/twi7ilfPtnTP3zjzPEBHFxSckJiVHSVGp4yhMahpi0GhDRpcMpGdwmVkRuGw9kKQjMuQgNy+fGIwFhTAVUTFfUsqKsvIKMltQSSpU6RhTXVNbp65vQBYlolGpVZibrAXFJDQDLcTBRjY0yf/bHSLAt3JGbVt7B3XyXRHl7AZcth4X0GvsMxCZf5XQD16TLwhatygNob9qYBBD8kQ3HMOMGvGMjslqfEKcZJQdU5Hlp8OFqMrETETNwsqouZLCedksePlFRi05wr0Sy/CpGSVwEFd0guAPeGBdZRStTQPe9Q0fsLkVyttRRQs73tANdzX+cNxDF+3jQFntUGU6Oj5RwinO6BwXlxTDVQNy6BqWm1h1m4s7KjqA6975781DKx6l2pgeHlvAHHxSCG73P1tQ9xLqeZVOBV7kFUReij1v8vv3co3+4w+fX98dUvkHxbZQ/ndacQYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="instagram" href="#img1" x="0" y="0" />
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91 91" width="91" height="91">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fc6a42 } 
+		.txt1 { font-size: 18px;line-height: 167px;fill: #ffffff;font-family: "Ubuntu";font-weight: 700 } 
+	</style>
+	<path id="circle" class="shp0" d="M46 1C70.85 1 91 21.15 91 46C91 70.85 70.85 91 46 91C21.15 91 1 70.85 1 46C1 21.15 21.15 1 46 1Z" />
+	<text id="Sunny" style="transform: matrix(1,0,0,1,16.043,52.137)" >
+		<tspan x="0" y="0" class="txt1" dx="0 -1 -1 -1 -1" >Sunny</tspan>
+	</text>
+</svg>

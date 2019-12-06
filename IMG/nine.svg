@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 58" width="59" height="58">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 30px;fill: #6ca3ff;font-family: "Ubuntu";font-weight: 700 } 
+	</style>
+	<path id="circle" class="shp0" d="M29.5 0.64C45.32 0.64 58.14 13.47 58.14 29.28C58.14 45.1 45.32 57.92 29.5 57.92C13.68 57.92 0.86 45.1 0.86 29.28C0.86 13.47 13.68 0.64 29.5 0.64Z" />
+	<text id="9˚" style="transform: matrix(0.674,0,0,0.674,24.098,36.018)" >
+		<tspan x="0" y="0" class="txt1">9˚</tspan>
+	</text>
+</svg>

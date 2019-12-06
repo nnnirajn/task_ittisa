@@ -1,0 +1,383 @@
+/*=======================
+   Responsive Style START
+=========================*/
+@media only screen and (max-width:1200px){
+    
+.header-section .hero-section .hero-text h1 {
+    font-size: 52px;
+}    
+    
+.header-section .hero-section .hero-img p:nth-child(3) {
+    position: absolute;
+    top: 15%;
+    right: 15%;
+ }
+    
+.header-section .hero-section .hero-img p:nth-child(4) {
+    position: absolute;
+    top: 40%;
+    right: 7%;
+}    
+    
+.header-section .hero-section .hero-img p:nth-child(5) {
+    position: absolute;
+    bottom: 8%;
+    right: 14%;
+}   
+    
+.screenshot-section .cloudy h6:last-of-type {
+    position: absolute;
+    top: 288px;
+    left: 76px;
+}    
+    
+.screenshot-section .rainy h6:last-of-type {
+    position: absolute;
+    top: 263px;
+    left: 99px;
+}   
+
+.widget-section .widget-slider .hi-slide .hi-next {
+    right: -115px;
+}
+    
+.widget-section .widget-slider .hi-slide .hi-prev {
+    left: -70px;
+
+}    
+    
+}
+
+@media only screen and (max-width:1000px){
+.widget-section .widget-slider{
+    display: none;
+}
+    
+#mobile-slider{
+    display: block;
+    margin: 0 auto;
+}    
+}
+
+@media only screen and (max-width:992px){
+.header-section .main-navigation ul li a:link,
+.header-section .main-navigation ul li a:visited {
+    margin: 0px 12px;
+  }
+    
+.footer-section .footer-information .main-navigation ul li a:link, .footer-section .footer-information .main-navigation ul li a:visited {
+    margin: 0px 13px;
+} 
+    
+.header-section .hero-section .hero-text h1 {
+    font-size: 45px;
+}
+    
+.header-section .hero-section .hero-img img {
+    width: 200px;
+}   
+
+.header-section .hero-section .hero-img p:nth-child(3) {
+    position: absolute;
+    top: 15%;
+    right: -7%;
+}
+
+.header-section .hero-section .hero-img p:nth-child(4) {
+    position: absolute;
+    top: 40%;
+    right: -11%;
+}
+    
+.header-section .hero-section .hero-img p:nth-child(5) {
+    position: absolute;
+    bottom: 19%;
+    right: -7%;
+}    
+
+.screenshot-section .cloudy h6:last-of-type {
+    position: absolute;
+    top: 288px;
+    left: -45px;
+}
+    
+.screenshot-section .rainy h6:last-of-type {
+    position: absolute;
+    top: 263px;
+    left: -25px;
+} 
+  
+}
+
+
+@media only screen and (max-width:850px){
+    
+.header-section .hero-section .hero-img p:nth-child(3) {
+    position: absolute;
+    top: 15%;
+    right: -1%;
+}    
+    
+.header-section .hero-section .hero-img p:nth-child(4) {
+    font-size: 15px;
+    padding: 20px 5px;
+}
+
+.header-section .hero-section .hero-img p:nth-child(4) {
+    position: absolute;
+    top: 40%;
+    right: -1%;
+}
+    
+.header-section .hero-section .hero-img p:nth-child(5) {
+    position: absolute;
+    bottom: 19%;
+    right: -2%;
+}    
+    
+}
+
+@media only screen and (max-width:768px){
+
+.header-section {
+    padding-bottom: 100px;
+}
+   
+.header-section .hero-section .hero-text {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}    
+
+.header-section .main-navigation,
+.header-section .socail-icon{
+    display: none;
+} 
+    
+.header-section .m-menu {
+	display: block;
+    margin-right: 20px;
+}    
+    
+.download-section .download-img img {
+    position: static;
+ }
+    
+.header-section .hero-section .hero-text p {
+    padding: 20px 0px;
+    margin: 0 auto;
+    width: 100%;
+}
+    
+.header-section .hero-section .hero-text h1 {
+    line-height: 45px;
+} 
+    
+.footer-section .main-navigation ul{
+    text-align: center;      
+}    
+    
+.header-section .hero-section .hero-img {
+    text-align: center;
+    position: relative;
+}    
+  
+.header-section .hero-section .hero-img p:nth-child(1) {
+    margin-left: -100px;
+}    
+    
+.header-section .hero-section .hero-img p:nth-child(3) {
+    position: absolute;
+    top: 15%;
+    right: 18%;
+}    
+   
+.header-section .hero-section .hero-img p:nth-child(4) {
+    position: absolute;
+    top: 40%;
+    right: 15%;
+}  
+
+.header-section .hero-section .hero-img p:nth-child(5) {
+    position: absolute;
+    bottom: 19%;
+    right: 18%;
+} 
+    
+#down-arrow {
+    margin-top: 15px;
+} 
+    
+.feature-section .feature-information .feature-information-img img {
+    float: right;
+    margin-right: 0px;
+}  
+    
+.screenshot-section .cloudy,
+.screenshot-section .sunny,
+.screenshot-section .rainy{
+     text-align: center;   
+}    
+    
+.screenshot-section .cloudy .img-box,
+.screenshot-section .sunny .img-box,
+.screenshot-section .rainy .img-box{
+     text-align: center;   
+}
+    
+.screenshot-section .cloudy .img-box img {
+    width: 180px;
+    position: static;
+} 
+    
+.screenshot-section .sunny .img-box img {
+    width: 180px;
+    position: static;
+}    
+
+.screenshot-section .rainy .img-box img {
+    width: 180px;
+    position: static;
+}    
+
+.screenshot-section .cloudy .img-box span,
+.screenshot-section .rainy .img-box span,
+.screenshot-section .sunny .img-box span{
+    display: none;
+}
+    
+.screenshot-section .cloudy h6:first-of-type {
+    position: absolute;
+    right: 118px;
+    top: 60px;
+}   
+
+.screenshot-section .cloudy h6:last-of-type {
+    position: absolute;
+    top: 223px;
+    left: 126px;
+}
+    
+.screenshot-section .sunny {
+    margin: 0px 0px 70px 0px;
+}    
+    
+.screenshot-section .rainy h6:first-of-type {
+    position: absolute;
+    right: 143px;
+    top: 90px;
+}    
+
+.screenshot-section .rainy h6:last-of-type {
+    position: absolute;
+    top: 216px;
+    left: 147px;
+}
+    
+.screenshot-section .cloudy .cloudy-icon img {    
+    padding-top: 20px;
+} 
+    
+.screenshot-section .rainy .rainy-icon img {
+    padding-top: 20px;
+}     
+
+.review-section {
+    padding: 0px 0px 0px 0px;
+}   
+    
+.download-section {
+    text-align: center;
+}  
+    
+.footer-section .footer-information {
+    justify-content: center;
+}   
+    
+.footer-section .lower-footer p {
+    text-align: center;
+}    
+    
+}
+
+@media only screen and (max-width:576px){
+.header-section .main-logo h2 {
+    font-size: 22px;
+    padding-left: 20px;
+}    
+    
+.header-section .hero-section .hero-text h1 {
+    font-size: 40px;
+}
+    
+.header-section .hero-section .hero-text p {
+    padding: 20px 14px;
+}    
+    
+.header-section .hero-section .hero-cta{
+    padding-top: 10px;
+}  
+    
+#down-arrow {
+    left: 41%;
+} 
+    
+.header-section .hero-section .hero-img p:nth-child(3) {
+    position: absolute;
+    top: 15%;
+    right: 5%;
+}    
+
+.header-section .hero-section .hero-img p:nth-child(4) {
+    position: absolute;
+    top: 40%;
+    right: 4%;
+}   
+
+.header-section .hero-section .hero-img p:nth-child(5) {
+    position: absolute;
+    bottom: 7%;
+    right: 6%;
+}    
+
+.feature-section {
+    padding: 40px 0px 20px 0px;
+} 
+
+.feature-section .feature-information .feature-information-img img {
+    float: right;
+    margin-right: 20px;
+}  
+    
+.download-section .download-info h1 {
+    padding-top: 0px;
+}    
+    
+.screenshot-section .cloudy h6:first-of-type {
+    position: absolute;
+    right: 30px;
+    top: 60px;
+}  
+    
+.screenshot-section .cloudy h6:last-of-type {
+    position: absolute;
+    top: 223px;
+    left: 40px;
+}   
+    
+.screenshot-section .rainy h6:first-of-type {
+    position: absolute;
+    right: 65px;
+    top: 90px;
+}    
+    
+.screenshot-section .rainy h6:last-of-type {
+    position: absolute;
+    top: 216px;
+    left: 60px;
+}    
+    
+}
+
+/*=======================
+   Responsive Style END
+========================*/
